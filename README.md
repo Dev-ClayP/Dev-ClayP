@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Dev-ClayP
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently building Llama frameworks
 - 📫 How to reach me @Dev.ClayP@proton.me
 
 <!---
